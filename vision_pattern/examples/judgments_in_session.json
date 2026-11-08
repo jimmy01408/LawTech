@@ -1,0 +1,17 @@
+{
+  "chart_000": {"pattern": "none", "confidence": 0.6, "key_points": [], "reasoning": "急漲後在 75、104 附近形成兩個高點，第二個較低，像雙頂雛形而非頭肩頂，也還沒明確跌破。"},
+  "chart_001": {"pattern": "head_and_shoulders_top", "confidence": 0.85, "key_points": [23, 60, 97], "reasoning": "23、97 兩肩高度相近，60 為明顯最高的頭，最後跌破 38 與 79 低點連成的頸線。"},
+  "chart_002": {"pattern": "double_bottom", "confidence": 0.85, "key_points": [36, 54, 81], "reasoning": "長期下跌後在 36、81 出現兩個相近低點，中間反彈到 54，最後量增突破頸線。"},
+  "chart_003": {"pattern": "head_and_shoulders_top", "confidence": 0.7, "key_points": [24, 61, 96], "reasoning": "61 為頭、兩側有肩，但右肩明顯低於左肩，尾段放量跌破頸線。"},
+  "chart_004": {"pattern": "double_bottom", "confidence": 0.65, "key_points": [36, 56, 83], "reasoning": "兩個低點加中間反彈，最後大幅突破；但第二個底明顯比第一個低，型態不算標準。"},
+  "chart_005": {"pattern": "double_bottom", "confidence": 0.85, "key_points": [39, 59, 80], "reasoning": "39、80 兩個低點接近，中間反彈至 59，後段放量突破頸線。"},
+  "chart_006": {"pattern": "double_bottom", "confidence": 0.75, "key_points": [38, 53, 84], "reasoning": "低點 38 與 84 相近，53 為頸線，110 附近放量站上頸線。"},
+  "chart_007": {"pattern": "none", "confidence": 0.75, "key_points": [], "reasoning": "長期上升趨勢，90 附近見高後回落整理，沒有頭肩或雙底結構。"},
+  "chart_008": {"pattern": "none", "confidence": 0.7, "key_points": [], "reasoning": "36 附近見高後下跌，74 至 80 打底後橫盤，沒有完成的型態。"},
+  "chart_009": {"pattern": "none", "confidence": 0.7, "key_points": [], "reasoning": "高檔來回震盪，波動大但沒有清楚的三峰或雙底結構。"},
+  "chart_010": {"pattern": "head_and_shoulders_top", "confidence": 0.85, "key_points": [23, 59, 97], "reasoning": "典型頭肩頂：兩肩相近、頭部最高，最後放量跌破 37 與 79 的頸線。"},
+  "chart_011": {"pattern": "head_and_shoulders_top", "confidence": 0.8, "key_points": [22, 60, 97], "reasoning": "22、97 為兩肩，60 為頭，尾段放量跌破 77 附近的頸線。"},
+  "chart_012": {"pattern": "head_and_shoulders_top", "confidence": 0.8, "key_points": [25, 55, 96], "reasoning": "25 與 96 為肩、55 為頭，最後跌破 78 附近低點。"},
+  "chart_013": {"pattern": "double_bottom", "confidence": 0.7, "key_points": [34, 56, 80], "reasoning": "兩個低點加中間反彈並強勢突破，但第二個底比第一個低不少。"},
+  "chart_014": {"pattern": "double_bottom", "confidence": 0.8, "key_points": [31, 61, 84], "reasoning": "31、84 兩個圓弧低點相近，61 為頸線，尾段放量突破。"}
+}
